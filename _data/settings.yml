@@ -33,7 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/lourdes.vera.925602'
+  facebook_url:
   twitter_url: 'https://twitter.com/Lourdes_A_Vera'
   instagram_url: ''
   snapchat_url: ''
