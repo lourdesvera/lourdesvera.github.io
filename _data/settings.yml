@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'CV'
-      url: 'https://neu.academia.edu/LourdesVera/CurriculumVitae'
+      url: 'https://buffalo.academia.edu/LourdesVera/CurriculumVitae'
  #   - title: 'Blog'
   #    url: '/blog/'
   #  - title: 'About'
@@ -26,11 +26,11 @@ hero_settings:
 post_settings:
   grid_spacing: 10
 
-contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+#contact_settings:
+ # form_action: ''
+  #confirmation_url: '/thanks'
+  #email_subject: 'Contact form submission'
+  #send_button_text: 'Send Message'
 
 social_settings:
   facebook_url:
